@@ -321,3 +321,8 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+3 Resources:-
+1. https://docs.python.org/3/tutorial/
+2. https://www.freecodecamp.org/news/best-python-tutorial/
+3. w3 school Python
